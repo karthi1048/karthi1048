@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## Github Stats
 
 ![Github Stats]
-https://github-readme-stats.vercel.app/api?username=karthi1048&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false
+(https://github-readme-stats.vercel.app/api?username=karthi1048&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
