@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align=center>Hi there 👋</h2>
 
 <!--
 **karthi1048/karthi1048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
