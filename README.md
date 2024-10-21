@@ -1,5 +1,7 @@
 <h2 align=center>Hi there 👋</h2>
 
+<p align=center>I am an aspiring engineer. Currently exploring web development for a personal project & strengthening my foundations in problem solving using Python & C/C++</p>
+
 <!--
 **karthi1048/karthi1048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
