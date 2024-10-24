@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=karthi1048&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&border_radius=10%&show_icons=true&card_width=495px&rank_icon=github)
+<span>
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=karthi1048&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&border_radius=10%&show_icons=true&rank_icon=github)
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthi1048&theme=gotham&hide_border=false&border_radius=2%)
+
+</span>
