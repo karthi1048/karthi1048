@@ -1,4 +1,3 @@
-<img src="Top.jpg">
 <h2 align=center>Hi there 👋</h2>
 
 <p align=center>I am an aspiring engineer. Currently exploring web development for a personal project & strengthening my foundations in problem solving using Python & C/C++</p>
