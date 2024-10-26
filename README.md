@@ -1,15 +1,12 @@
-<img src="logo1.png">
-<h2 align=center>Hi there 👋</h2>
+<img src="logo1.png" alt="Github logo using Blender">
+<h1 align=center>Hi there 👋</h1>
 
 I am Karthikeyan.A
 
-Aspiring Engineer | Exploring web development | Learning DSA with Python & C\C++ | Blender ethusiast
+**Aspiring Engineer | Exploring web development | Learning DSA with Python & C\C++ | Blender ethusiast**
 
 <!--
-**karthi1048/karthi1048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,7 +17,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Github Stats
+I'm currently working on 
+
+
+### Skills
+- Programming Languages <span>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt=" ">
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt=" ">
+<img src="  " alt=" ">
+</span>
+
+- Tools <span>
+
+</span>
+
+### Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=karthi1048&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&border_radius=10%&show_icons=true&card_width=495px&rank_icon=github)
 
