@@ -21,15 +21,15 @@ I'm currently working on
 
 
 ### Skills
-- Programming Languages <span>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt=" ">
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt=" ">
-<img src="  " alt=" ">
-</span>
+- Programming Languages <div>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
+</div>
 
-- Tools <span>
+- Tools
 
-</span>
+![Tools](https://skillicons.dev/icons?i=git,vscode&theme=light)
 
 ### Github Stats
 
