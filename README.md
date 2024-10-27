@@ -3,7 +3,6 @@
 
 I am Karthikeyan.A
 
-**Aspiring Engineer | Exploring web development | Learning DSA with Python & C\C++ | Blender ethusiast**
 
 <!--
 Here are some ideas to get you started:
