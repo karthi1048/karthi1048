@@ -3,7 +3,6 @@
 
 I am Karthikeyan.A
 
-
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -16,19 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on 
-
+Currently involved in the path of learning web development, meanwhile i am also focused on strengthening my knowledge towards DSA.
 
 ### Skills
-- *Programming Languages* <div>
+- *Programming Languages I'm good at:* <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
 </div>
 
-- *Tools*
+- *Tools I utilize:*
 
-![Tools](https://skillicons.dev/icons?i=git,vscode&theme=light)
+![Tools](https://skillicons.dev/icons?i=git,vscode,blender&theme=light)
+
+### Project goals
+- [ ] Creation of For-Ever-Free education platform to guide individuals.
+- [ ] Seamless sign to speech converter.
 
 ### Github Stats
 
