@@ -1,7 +1,9 @@
 <img src="logo1.png" alt="Github logo using Blender">
+
+---
 <h1 align=center>Hi there 👋</h1>
 
-I am Karthikeyan.A
+<p align=center>Welcome to my Github profile</p>
 
 <!--
 Here are some ideas to get you started:
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently involved in the path of learning web development, meanwhile i am also focused on strengthening my knowledge towards DSA.
+I'm currently involved in the path of learning web development, meanwhile i am also focused on strengthening my knowledge towards DSA.
 
 ### Skills
 - *Programming Languages I'm good at:* <div>
@@ -39,3 +41,6 @@ Currently involved in the path of learning web development, meanwhile i am also 
 ### Github streak
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthi1048&theme=gotham&hide_border=false&border_radius=2%)
+
+---
+<p align=center>Thank you for exploring</p>
