@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm currently involved in the path of learning web development, meanwhile i am also focused on strengthening my knowledge towards DSA.
 
 ### Skills
-- *Programming Languages I'm good at:* <div>
+- *Languages I'm good at:* <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
