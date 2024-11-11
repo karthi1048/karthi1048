@@ -43,6 +43,8 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthi1048&theme=gotham&hide_border=false&border_radius=2%)
 
+<br>
+
 ***Favourite quote:***
 
 *Keep moving forward, no matter what adversity you face.*
