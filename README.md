@@ -22,25 +22,25 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 ### Skills
 - ***Languages I'm good at:***
 <div>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%231572B6.svg?style=plastic&logo=javascript&logoColor=white" alt="JAVASCRIPT">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Javascript-%231572B6.svg?style=plastic&logo=javascript&logoColor=white" alt="JAVASCRIPT">
 </div>
 
 <br>
 
 - ***Frameworks I use:***
 <div>
-  <img src="https://img.shields.io/badge/bootstrap-%231572B6.svg?style=plastic&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
+  <img src="https://img.shields.io/badge/Bootstrap-%231572B6.svg?style=plastic&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
 </div>
 
 <br>
 
 - ***Tools I utilize:***
 
-![Tools](https://skillicons.dev/icons?i=git,vscode,blender&theme=light)
+![Tools](https://skillicons.dev/icons?i=git,vscode,mysql,blender&theme=light)
 
 ### Project goals
 - [ ] *Creation of For-Ever-Free education platform to guide individuals.*
