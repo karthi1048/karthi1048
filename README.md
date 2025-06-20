@@ -46,11 +46,9 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 - [ ] *Creation of For-Ever-Free education platform to guide individuals.*
 - [ ] *Seamless Sign-to-Speech converter.*
 
-### Github Stats
+### Github Stats & Streak
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=karthi1048&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&border_radius=10%&show_icons=true&card_width=495px&rank_icon=github)
-
-### Github streak
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthi1048&theme=gotham&hide_border=false&border_radius=2%)
 
