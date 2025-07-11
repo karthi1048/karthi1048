@@ -34,6 +34,7 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 - ***Frameworks I use:***
 <div>
   <img src="https://img.shields.io/badge/Bootstrap-%231572B6.svg?style=plastic&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
+  <img src="https://img.shields.io/badge/Tailwind-%231572B6.svg?style=plastic&logo=tailwindcss&logoColor=white" alt="Tailwind 4">
 </div>
 
 <br>
