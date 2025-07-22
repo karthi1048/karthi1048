@@ -21,7 +21,7 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 
 ### Skills
 - ***Languages I'm good at:***
-<div>
+<div align="">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
@@ -34,18 +34,19 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 <br>
 
 - ***Frameworks I use:***
-<div>
+<div align="">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind 5">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery">
-  <img src="" alt="">
+  <img src="https://img.shields.io/badge/Tensorflow-FF8C00?style=flat&logo=tensorflow&logoColor=white" alt="">
 </div>
 
 <br>
 
+
 - ***Tools I utilize:***
 
-![Tools](https://skillicons.dev/icons?i=git,npm,vscode,mysql,blender&theme=light)
+![Tools](https://skillicons.dev/icons?i=git,npm,mysql,vscode,blender&theme=light)
 
 ### Project goals
 - [ ] *Creation of For-Ever-Free education platform to guide individuals.*
