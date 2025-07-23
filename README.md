@@ -24,8 +24,9 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 <div align="">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-SQL-323330?style=flat&logoColor=4479A1" alt="">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="Javascript">
   <img src="" alt="">
   <img src="" alt="">
@@ -33,12 +34,15 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 
 <br>
 
-- ***Frameworks I use:***
+- ***Frameworks & libraries I use:***
 <div align="">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind 5">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery">
   <img src="https://img.shields.io/badge/Tensorflow-FF8C00?style=flat&logo=tensorflow&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
 </div>
 
 <br>
