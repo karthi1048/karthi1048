@@ -5,18 +5,6 @@
 
 <p align=center>Welcome to my Github profile</p>
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm currently involved in the path of learning web development, meanwhile i am also focused on strengthening my knowledge towards DSA.
 
 ### Skills
@@ -28,8 +16,8 @@ I'm currently involved in the path of learning web development, meanwhile i am a
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="Javascript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="" alt="">
   <img src="" alt="">
 </div>
 
@@ -52,7 +40,7 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 
 - ***Tools I utilize:***
 
-![Tools](https://skillicons.dev/icons?i=git,npm,mysql,vscode,blender&theme=light)
+ ![Tools](https://skillicons.dev/icons?i=git,npm,mysql,vscode,blender&theme=light)
 
 ### Project goals
 - [ ] *Creation of For-Ever-Free education platform to guide individuals.*
