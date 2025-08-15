@@ -25,13 +25,13 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 
 - ***Frameworks & libraries I use:***
 <div align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="BOOTSTRAP 5">
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind 5">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery">
   <img src="https://img.shields.io/badge/Tensorflow-FF8C00?style=flat&logo=tensorflow&logoColor=white" alt="Tensorflow">
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white" alt="">
-  <img src="" alt="">
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three JS">
   <img src="" alt="">
 </div>
 
@@ -40,7 +40,7 @@ I'm currently involved in the path of learning web development, meanwhile i am a
 
 - ***Tools I utilize:***
 
- ![Tools](https://skillicons.dev/icons?i=git,npm,mysql,vscode,blender&theme=light)
+ ![Tools](https://skillicons.dev/icons?i=git,vite,npm,mysql,vscode,blender&theme=light)
 
 ### Project goals
 - [ ] *Creation of For-Ever-Free education platform to guide individuals.*
