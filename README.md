@@ -19,6 +19,7 @@ I'm currently involved in the path of learning web development, meanwhile i am a
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown">
   <img src="" alt="">
+  <img src="" alt="">
 </div>
 
 <br>
@@ -32,6 +33,7 @@ I'm currently involved in the path of learning web development, meanwhile i am a
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three JS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React JS">
   <img src="" alt="">
 </div>
 
